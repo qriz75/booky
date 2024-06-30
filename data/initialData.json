@@ -1,0 +1,678 @@
+{
+  "categories": [
+    {
+      "name": "Google Services",
+      "links": [
+        { "title": "Google", "url": "https://www.google.com" },
+        { "title": "Gmail", "url": "https://mail.google.com" },
+        { "title": "Google Drive", "url": "https://drive.google.com" },
+        { "title": "Google Docs", "url": "https://docs.google.com" },
+        { "title": "Google Sheets", "url": "https://sheets.google.com" },
+        { "title": "Google Slides", "url": "https://slides.google.com" },
+        { "title": "Google Calendar", "url": "https://calendar.google.com" },
+        { "title": "Google Keep", "url": "https://keep.google.com" },
+        { "title": "Google Photos", "url": "https://photos.google.com" },
+        { "title": "Google Maps", "url": "https://maps.google.com" },
+        { "title": "Google News", "url": "https://news.google.com" },
+        { "title": "Google Meet", "url": "https://meet.google.com" },
+        { "title": "Google Chat", "url": "https://chat.google.com" },
+        { "title": "Google Contacts", "url": "https://contacts.google.com" },
+        { "title": "Google Translate", "url": "https://translate.google.com" },
+        { "title": "Google Analytics", "url": "https://analytics.google.com" },
+        { "title": "Google Ads", "url": "https://ads.google.com" },
+        { "title": "YouTube", "url": "https://www.youtube.com" },
+        { "title": "Google Play", "url": "https://play.google.com" },
+        { "title": "Google Cloud", "url": "https://cloud.google.com" }
+      ]
+    },
+    {
+      "name": "Microsoft Office 365",
+      "links": [
+        { "title": "Office 365", "url": "https://www.office.com" },
+        { "title": "Outlook", "url": "https://outlook.office.com" },
+        { "title": "OneDrive", "url": "https://onedrive.live.com" },
+        { "title": "Word", "url": "https://word.office.com" },
+        { "title": "Excel", "url": "https://excel.office.com" },
+        { "title": "PowerPoint", "url": "https://powerpoint.office.com" },
+        { "title": "OneNote", "url": "https://onenote.com" },
+        { "title": "SharePoint", "url": "https://sharepoint.com" },
+        { "title": "Teams", "url": "https://teams.microsoft.com" },
+        { "title": "Yammer", "url": "https://www.yammer.com" },
+        { "title": "Stream", "url": "https://web.microsoftstream.com" },
+        { "title": "Sway", "url": "https://sway.office.com" },
+        { "title": "Planner", "url": "https://tasks.office.com" },
+        { "title": "Power BI", "url": "https://powerbi.microsoft.com" },
+        { "title": "Forms", "url": "https://forms.office.com" },
+        { "title": "Dynamics 365", "url": "https://dynamics.microsoft.com" },
+        { "title": "Azure", "url": "https://azure.microsoft.com" },
+        { "title": "Visio", "url": "https://visio.office.com" },
+        { "title": "Publisher", "url": "https://publisher.microsoft.com" },
+        { "title": "Access", "url": "https://access.microsoft.com" }
+      ]
+    },
+    {
+      "name": "Software Development",
+      "links": [
+        { "title": "GitHub", "url": "https://github.com" },
+        { "title": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "title": "GitLab", "url": "https://gitlab.com" },
+        { "title": "Bitbucket", "url": "https://bitbucket.org" },
+        {
+          "title": "Reddit Programming",
+          "url": "https://www.reddit.com/r/programming/"
+        },
+        { "title": "HackerRank", "url": "https://www.hackerrank.com" },
+        { "title": "LeetCode", "url": "https://leetcode.com" },
+        { "title": "CodePen", "url": "https://codepen.io" },
+        { "title": "JSFiddle", "url": "https://jsfiddle.net" },
+        { "title": "Codecademy", "url": "https://www.codecademy.com" },
+        { "title": "Dev.to", "url": "https://dev.to" },
+        {
+          "title": "Medium Programming",
+          "url": "https://medium.com/topic/programming"
+        },
+        { "title": "GeeksforGeeks", "url": "https://www.geeksforgeeks.org" },
+        { "title": "FreeCodeCamp", "url": "https://www.freecodecamp.org" },
+        { "title": "W3Schools", "url": "https://www.w3schools.com" },
+        {
+          "title": "Mozilla Developer Network",
+          "url": "https://developer.mozilla.org"
+        },
+        { "title": "Coursera", "url": "https://www.coursera.org" },
+        { "title": "Kaggle", "url": "https://www.kaggle.com" },
+        { "title": "Repl.it", "url": "https://repl.it" },
+        { "title": "Pluralsight", "url": "https://www.pluralsight.com" }
+      ]
+    },
+    {
+      "name": "Free Tools",
+      "links": [
+        { "title": "GIMP", "url": "https://www.gimp.org" },
+        { "title": "LibreOffice", "url": "https://www.libreoffice.org" },
+        { "title": "Audacity", "url": "https://www.audacityteam.org" },
+        { "title": "Inkscape", "url": "https://inkscape.org" },
+        { "title": "Blender", "url": "https://www.blender.org" },
+        { "title": "Shotcut", "url": "https://www.shotcut.org" },
+        { "title": "OBS Studio", "url": "https://obsproject.com" },
+        { "title": "VLC Media Player", "url": "https://www.videolan.org/vlc" },
+        { "title": "7-Zip", "url": "https://www.7-zip.org" },
+        { "title": "Notepad++", "url": "https://notepad-plus-plus.org" },
+        { "title": "HandBrake", "url": "https://handbrake.fr" },
+        {
+          "title": "DaVinci Resolve",
+          "url": "https://www.blackmagicdesign.com/products/davinciresolve"
+        },
+        { "title": "KeePass", "url": "https://keepass.info" },
+        { "title": "Bitwarden", "url": "https://bitwarden.com" },
+        { "title": "Brave Browser", "url": "https://brave.com" },
+        { "title": "LibreCAD", "url": "https://librecad.org" },
+        { "title": "Krita", "url": "https://krita.org" },
+        { "title": "Calibre", "url": "https://calibre-ebook.com" },
+        { "title": "Thunderbird", "url": "https://www.thunderbird.net" },
+        { "title": "Greenshot", "url": "https://getgreenshot.org" }
+      ]
+    },
+    {
+      "name": "Hobby",
+      "links": [
+        { "title": "Pinterest", "url": "https://www.pinterest.com" },
+        {
+          "title": "Reddit Hobbies",
+          "url": "https://www.reddit.com/r/hobbies/"
+        },
+        { "title": "Instructables", "url": "https://www.instructables.com" },
+        { "title": "Ravelry", "url": "https://www.ravelry.com" },
+        { "title": "Etsy", "url": "https://www.etsy.com" },
+        { "title": "Makezine", "url": "https://makezine.com" },
+        {
+          "title": "YouTube DIY",
+          "url": "https://www.youtube.com/playlist?list=PLqU4g4wuIQm1YrxhtLzO0ThOyc0h6hbzi"
+        },
+        { "title": "Goodreads", "url": "https://www.goodreads.com" },
+        { "title": "BoardGameGeek", "url": "https://boardgamegeek.com" },
+        { "title": "Geocaching", "url": "https://www.geocaching.com" },
+        { "title": "RC Groups", "url": "https://www.rcgroups.com" },
+        { "title": "Model Mayhem", "url": "https://www.modelmayhem.com" },
+        { "title": "Craftsy", "url": "https://www.craftsy.com" },
+        { "title": "DeviantArt", "url": "https://www.deviantart.com" },
+        { "title": "AllRecipes", "url": "https://www.allrecipes.com" },
+        { "title": "Epicurious", "url": "https://www.epicurious.com" },
+        { "title": "Food Network", "url": "https://www.foodnetwork.com" },
+        { "title": "Serious Eats", "url": "https://www.seriouseats.com" },
+        { "title": "Bon Appétit", "url": "https://www.bonappetit.com" },
+        { "title": "Smitten Kitchen", "url": "https://smittenkitchen.com" }
+      ]
+    },
+    {
+      "name": "Technology",
+      "links": [
+        { "title": "TechCrunch", "url": "https://techcrunch.com" },
+        { "title": "Hacker News", "url": "https://news.ycombinator.com" },
+        { "title": "Wired", "url": "https://www.wired.com" },
+        { "title": "The Verge", "url": "https://www.theverge.com" },
+        { "title": "Gizmodo", "url": "https://gizmodo.com" },
+        { "title": "Ars Technica", "url": "https://arstechnica.com" },
+        { "title": "Mashable", "url": "https://mashable.com" },
+        { "title": "Engadget", "url": "https://www.engadget.com" },
+        { "title": "Slashdot", "url": "https://slashdot.org" },
+        { "title": "CNET", "url": "https://www.cnet.com" },
+        { "title": "ZDNet", "url": "https://www.zdnet.com" },
+        { "title": "TechRadar", "url": "https://www.techradar.com" },
+        { "title": "Digital Trends", "url": "https://www.digitaltrends.com" },
+        { "title": "VentureBeat", "url": "https://venturebeat.com" },
+        { "title": "Recode", "url": "https://www.recode.net" },
+        { "title": "The Information", "url": "https://www.theinformation.com" },
+        { "title": "9to5Mac", "url": "https://9to5mac.com" },
+        { "title": "Android Central", "url": "https://www.androidcentral.com" },
+        { "title": "MacRumors", "url": "https://www.macrumors.com" },
+        { "title": "Gigaom", "url": "https://gigaom.com" }
+      ]
+    },
+    {
+      "name": "Science",
+      "links": [
+        { "title": "Nature", "url": "https://www.nature.com" },
+        {
+          "title": "Scientific American",
+          "url": "https://www.scientificamerican.com"
+        },
+        { "title": "Science Daily", "url": "https://www.sciencedaily.com" },
+        {
+          "title": "National Geographic",
+          "url": "https://www.nationalgeographic.com"
+        },
+        { "title": "New Scientist", "url": "https://www.newscientist.com" },
+        { "title": "Smithsonian", "url": "https://www.smithsonianmag.com" },
+        { "title": "Popular Science", "url": "https://www.popsci.com" },
+        { "title": "Science News", "url": "https://www.sciencenews.org" },
+        { "title": "Quanta Magazine", "url": "https://www.quantamagazine.org" },
+        { "title": "Space.com", "url": "https://www.space.com" },
+        { "title": "Live Science", "url": "https://www.livescience.com" },
+        {
+          "title": "Discover Magazine",
+          "url": "https://www.discovermagazine.com"
+        },
+        { "title": "Phys.org", "url": "https://phys.org" },
+        { "title": "Science Magazine", "url": "https://www.sciencemag.org" },
+        { "title": "SciTechDaily", "url": "https://scitechdaily.com" },
+        {
+          "title": "Popular Mechanics",
+          "url": "https://www.popularmechanics.com"
+        },
+        { "title": "BBC Science", "url": "https://www.bbc.com/future" },
+        { "title": "Astronomy Magazine", "url": "https://www.astronomy.com" },
+        { "title": "The Scientist", "url": "https://www.the-scientist.com" },
+        { "title": "National Science Foundation", "url": "https://www.nsf.gov" }
+      ]
+    },
+    {
+      "name": "News",
+      "links": [
+        { "title": "BBC News", "url": "https://www.bbc.com/news" },
+        { "title": "CNN", "url": "https://www.cnn.com" },
+        { "title": "The New York Times", "url": "https://www.nytimes.com" },
+        { "title": "Reuters", "url": "https://www.reuters.com" },
+        { "title": "The Guardian", "url": "https://www.theguardian.com" },
+        { "title": "Al Jazeera", "url": "https://www.aljazeera.com" },
+        { "title": "NPR", "url": "https://www.npr.org" },
+        { "title": "Fox News", "url": "https://www.foxnews.com" },
+        { "title": "Bloomberg", "url": "https://www.bloomberg.com" },
+        { "title": "Associated Press", "url": "https://apnews.com" },
+        { "title": "MSNBC", "url": "https://www.msnbc.com" },
+        { "title": "ABC News", "url": "https://abcnews.go.com" },
+        { "title": "CBS News", "url": "https://www.cbsnews.com" },
+        { "title": "USA Today", "url": "https://www.usatoday.com" },
+        {
+          "title": "The Washington Post",
+          "url": "https://www.washingtonpost.com"
+        },
+        { "title": "Time", "url": "https://time.com" },
+        { "title": "Newsweek", "url": "https://www.newsweek.com" },
+        { "title": "The Wall Street Journal", "url": "https://www.wsj.com" },
+        { "title": "Axios", "url": "https://www.axios.com" },
+        { "title": "Politico", "url": "https://www.politico.com" }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "links": [
+        { "title": "YouTube", "url": "https://www.youtube.com" },
+        { "title": "Netflix", "url": "https://www.netflix.com" },
+        { "title": "Hulu", "url": "https://www.hulu.com" },
+        { "title": "IMDb", "url": "https://www.imdb.com" },
+        { "title": "Rotten Tomatoes", "url": "https://www.rottentomatoes.com" },
+        { "title": "Metacritic", "url": "https://www.metacritic.com" },
+        { "title": "TMZ", "url": "https://www.tmz.com" },
+        { "title": "Vulture", "url": "https://www.vulture.com" },
+        { "title": "Rolling Stone", "url": "https://www.rollingstone.com" },
+        { "title": "Variety", "url": "https://variety.com" },
+        { "title": "E! Online", "url": "https://www.eonline.com" },
+        { "title": "BuzzFeed", "url": "https://www.buzzfeed.com" },
+        {
+          "title": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com"
+        },
+        { "title": "Deadline", "url": "https://www.deadline.com" },
+        { "title": "Entertainment Weekly", "url": "https://ew.com" },
+        { "title": "MTV News", "url": "https://www.mtv.com/news" },
+        { "title": "Complex", "url": "https://www.complex.com" },
+        { "title": "Collider", "url": "https://collider.com" },
+        { "title": "Screen Rant", "url": "https://screenrant.com" },
+        { "title": "People", "url": "https://people.com" }
+      ]
+    },
+    {
+      "name": "Sports",
+      "links": [
+        { "title": "ESPN", "url": "https://www.espn.com" },
+        { "title": "BBC Sport", "url": "https://www.bbc.com/sport" },
+        { "title": "Sky Sports", "url": "https://www.skysports.com" },
+        { "title": "Fox Sports", "url": "https://www.foxsports.com" },
+        { "title": "CBS Sports", "url": "https://www.cbssports.com" },
+        { "title": "NBC Sports", "url": "https://www.nbcsports.com" },
+        { "title": "Bleacher Report", "url": "https://bleacherreport.com" },
+        { "title": "Yahoo Sports", "url": "https://sports.yahoo.com" },
+        { "title": "Sports Illustrated", "url": "https://www.si.com" },
+        { "title": "The Athletic", "url": "https://theathletic.com" },
+        { "title": "SB Nation", "url": "https://www.sbnation.com" },
+        { "title": "MLB.com", "url": "https://www.mlb.com" },
+        { "title": "NFL.com", "url": "https://www.nfl.com" },
+        { "title": "NBA.com", "url": "https://www.nba.com" },
+        { "title": "NHL.com", "url": "https://www.nhl.com" },
+        { "title": "Soccerway", "url": "https://www.soccerway.com" },
+        { "title": "FIFA.com", "url": "https://www.fifa.com" },
+        { "title": "Olympic Channel", "url": "https://www.olympicchannel.com" },
+        { "title": "Eurosport", "url": "https://www.eurosport.com" },
+        { "title": "Golf Channel", "url": "https://www.golfchannel.com" }
+      ]
+    },
+    {
+      "name": "Education",
+      "links": [
+        { "title": "Khan Academy", "url": "https://www.khanacademy.org" },
+        { "title": "Coursera", "url": "https://www.coursera.org" },
+        { "title": "edX", "url": "https://www.edx.org" },
+        { "title": "Udacity", "url": "https://www.udacity.com" },
+        { "title": "Udemy", "url": "https://www.udemy.com" },
+        { "title": "MIT OpenCourseWare", "url": "https://ocw.mit.edu" },
+        {
+          "title": "Harvard Online Learning",
+          "url": "https://online-learning.harvard.edu"
+        },
+        { "title": "TED", "url": "https://www.ted.com" },
+        { "title": "Codecademy", "url": "https://www.codecademy.com" },
+        { "title": "Duolingo", "url": "https://www.duolingo.com" },
+        {
+          "title": "LinkedIn Learning",
+          "url": "https://www.linkedin.com/learning"
+        },
+        {
+          "title": "Khan Academy Kids",
+          "url": "https://learn.khanacademy.org/khan-academy-kids"
+        },
+        { "title": "Alison", "url": "https://alison.com" },
+        { "title": "FutureLearn", "url": "https://www.futurelearn.com" },
+        { "title": "Academic Earth", "url": "https://academicearth.org" },
+        { "title": "Saylor Academy", "url": "https://www.saylor.org" },
+        { "title": "OpenLearn", "url": "https://www.open.edu/openlearn" },
+        { "title": "Class Central", "url": "https://www.classcentral.com" },
+        { "title": "Canvas Network", "url": "https://www.canvas.net" },
+        { "title": "Stanford Online", "url": "https://online.stanford.edu" }
+      ]
+    },
+    {
+      "name": "Health",
+      "links": [
+        { "title": "WebMD", "url": "https://www.webmd.com" },
+        { "title": "Mayo Clinic", "url": "https://www.mayoclinic.org" },
+        { "title": "Healthline", "url": "https://www.healthline.com" },
+        {
+          "title": "Medical News Today",
+          "url": "https://www.medicalnewstoday.com"
+        },
+        { "title": "MedlinePlus", "url": "https://medlineplus.gov" },
+        { "title": "CDC", "url": "https://www.cdc.gov" },
+        { "title": "WHO", "url": "https://www.who.int" },
+        { "title": "NHS", "url": "https://www.nhs.uk" },
+        { "title": "PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov" },
+        { "title": "Verywell Health", "url": "https://www.verywellhealth.com" },
+        {
+          "title": "Cleveland Clinic",
+          "url": "https://my.clevelandclinic.org"
+        },
+        {
+          "title": "Johns Hopkins Medicine",
+          "url": "https://www.hopkinsmedicine.org"
+        },
+        { "title": "Everyday Health", "url": "https://www.everydayhealth.com" },
+        { "title": "Medscape", "url": "https://www.medscape.com" },
+        { "title": "Health.com", "url": "https://www.health.com" },
+        { "title": "Harvard Health", "url": "https://www.health.harvard.edu" },
+        {
+          "title": "National Institutes of Health",
+          "url": "https://www.nih.gov"
+        },
+        {
+          "title": "American Heart Association",
+          "url": "https://www.heart.org"
+        },
+        { "title": "Men's Health", "url": "https://www.menshealth.com" },
+        { "title": "Women's Health", "url": "https://www.womenshealthmag.com" }
+      ]
+    },
+    {
+      "name": "Finance",
+      "links": [
+        { "title": "Yahoo Finance", "url": "https://finance.yahoo.com" },
+        { "title": "Bloomberg", "url": "https://www.bloomberg.com" },
+        { "title": "MarketWatch", "url": "https://www.marketwatch.com" },
+        { "title": "Forbes", "url": "https://www.forbes.com" },
+        { "title": "Investopedia", "url": "https://www.investopedia.com" },
+        { "title": "The Wall Street Journal", "url": "https://www.wsj.com" },
+        { "title": "CNN Business", "url": "https://www.cnn.com/business" },
+        { "title": "Financial Times", "url": "https://www.ft.com" },
+        { "title": "CNBC", "url": "https://www.cnbc.com" },
+        {
+          "title": "Reuters Business",
+          "url": "https://www.reuters.com/finance"
+        },
+        { "title": "The Motley Fool", "url": "https://www.fool.com" },
+        { "title": "Seeking Alpha", "url": "https://seekingalpha.com" },
+        { "title": "Barron's", "url": "https://www.barrons.com" },
+        { "title": "Kiplinger", "url": "https://www.kiplinger.com" },
+        { "title": "NerdWallet", "url": "https://www.nerdwallet.com" },
+        { "title": "Morningstar", "url": "https://www.morningstar.com" },
+        { "title": "Bankrate", "url": "https://www.bankrate.com" },
+        { "title": "Money", "url": "https://money.com" },
+        { "title": "SmartAsset", "url": "https://smartasset.com" },
+        { "title": "Robinhood", "url": "https://www.robinhood.com" }
+      ]
+    },
+    {
+      "name": "Travel",
+      "links": [
+        { "title": "TripAdvisor", "url": "https://www.tripadvisor.com" },
+        { "title": "Lonely Planet", "url": "https://www.lonelyplanet.com" },
+        { "title": "Expedia", "url": "https://www.expedia.com" },
+        { "title": "Kayak", "url": "https://www.kayak.com" },
+        {
+          "title": "Travel + Leisure",
+          "url": "https://www.travelandleisure.com"
+        },
+        {
+          "title": "National Geographic Travel",
+          "url": "https://www.nationalgeographic.com/travel"
+        },
+        { "title": "Fodor's Travel", "url": "https://www.fodors.com" },
+        { "title": "Skyscanner", "url": "https://www.skyscanner.com" },
+        { "title": "Airbnb", "url": "https://www.airbnb.com" },
+        { "title": "Rick Steves' Europe", "url": "https://www.ricksteves.com" },
+        { "title": "Booking.com", "url": "https://www.booking.com" },
+        { "title": "Priceline", "url": "https://www.priceline.com" },
+        { "title": "Orbitz", "url": "https://www.orbitz.com" },
+        { "title": "Hotwire", "url": "https://www.hotwire.com" },
+        { "title": "Google Flights", "url": "https://www.google.com/flights" },
+        { "title": "Momondo", "url": "https://www.momondo.com" },
+        { "title": "Hipmunk", "url": "https://www.hipmunk.com" },
+        { "title": "Jetsetter", "url": "https://www.jetsetter.com" },
+        { "title": "Trip.com", "url": "https://www.trip.com" },
+        { "title": "Trivago", "url": "https://www.trivago.com" }
+      ]
+    },
+    {
+      "name": "Food",
+      "links": [
+        { "title": "AllRecipes", "url": "https://www.allrecipes.com" },
+        { "title": "Epicurious", "url": "https://www.epicurious.com" },
+        { "title": "Food Network", "url": "https://www.foodnetwork.com" },
+        { "title": "Serious Eats", "url": "https://www.seriouseats.com" },
+        { "title": "Bon Appétit", "url": "https://www.bonappetit.com" },
+        { "title": "Smitten Kitchen", "url": "https://smittenkitchen.com" },
+        { "title": "Simply Recipes", "url": "https://www.simplyrecipes.com" },
+        { "title": "The Kitchn", "url": "https://www.thekitchn.com" },
+        { "title": "BBC Good Food", "url": "https://www.bbcgoodfood.com" },
+        { "title": "Yummly", "url": "https://www.yummly.com" },
+        { "title": "Delish", "url": "https://www.delish.com" },
+        { "title": "Serious Eats", "url": "https://www.seriouseats.com" },
+        { "title": "Eater", "url": "https://www.eater.com" },
+        {
+          "title": "New York Times Cooking",
+          "url": "https://cooking.nytimes.com"
+        },
+        { "title": "Chowhound", "url": "https://www.chowhound.com" },
+        { "title": "Tasty", "url": "https://tasty.co" },
+        {
+          "title": "Cooking Channel",
+          "url": "https://www.cookingchanneltv.com"
+        },
+        { "title": "Serious Eats", "url": "https://www.seriouseats.com" },
+        {
+          "title": "America's Test Kitchen",
+          "url": "https://www.americastestkitchen.com"
+        },
+        { "title": "Taste of Home", "url": "https://www.tasteofhome.com" }
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "links": [
+        { "title": "OpenAI", "url": "https://www.openai.com" },
+        { "title": "AI News", "url": "https://www.ainews.com" },
+        {
+          "title": "Towards Data Science",
+          "url": "https://towardsdatascience.com"
+        },
+        {
+          "title": "MIT AI News",
+          "url": "https://news.mit.edu/topic/artificial-intelligence2"
+        },
+        { "title": "AI Trends", "url": "https://www.aitrends.com" },
+        { "title": "DeepMind", "url": "https://deepmind.com" },
+        { "title": "AI Weekly", "url": "https://aiweekly.co" },
+        {
+          "title": "Machine Learning Mastery",
+          "url": "https://machinelearningmastery.com"
+        },
+        { "title": "Fast.ai", "url": "https://www.fast.ai" },
+        {
+          "title": "Analytics Vidhya",
+          "url": "https://www.analyticsvidhya.com"
+        },
+        { "title": "Google AI", "url": "https://ai.google" },
+        {
+          "title": "NVIDIA AI",
+          "url": "https://www.nvidia.com/en-us/deep-learning-ai"
+        },
+        {
+          "title": "AI Alignment Forum",
+          "url": "https://www.alignmentforum.org"
+        },
+        { "title": "AI Index", "url": "https://aiindex.stanford.edu" },
+        {
+          "title": "Artificial Intelligence Blog",
+          "url": "https://www.oreilly.com/radar/topics/artificial-intelligence"
+        },
+        { "title": "EleutherAI", "url": "https://www.eleuther.ai" },
+        {
+          "title": "OpenAI Codex",
+          "url": "https://www.openai.com/research/codex"
+        },
+        { "title": "GPT-3", "url": "https://beta.openai.com" },
+        { "title": "DeepAI", "url": "https://deepai.org" },
+        { "title": "AI Alignment", "url": "https://alignmentforum.org" }
+      ]
+    },
+    {
+      "name": "Streaming",
+      "links": [
+        { "title": "Netflix", "url": "https://www.netflix.com" },
+        { "title": "Hulu", "url": "https://www.hulu.com" },
+        { "title": "Amazon Prime Video", "url": "https://www.primevideo.com" },
+        { "title": "Disney+", "url": "https://www.disneyplus.com" },
+        { "title": "HBO Max", "url": "https://www.hbomax.com" },
+        { "title": "Peacock", "url": "https://www.peacocktv.com" },
+        { "title": "Apple TV+", "url": "https://tv.apple.com" },
+        { "title": "Paramount+", "url": "https://www.paramountplus.com" },
+        { "title": "YouTube TV", "url": "https://tv.youtube.com" },
+        { "title": "Sling TV", "url": "https://www.sling.com" },
+        { "title": "Crunchyroll", "url": "https://www.crunchyroll.com" },
+        { "title": "Funimation", "url": "https://www.funimation.com" },
+        { "title": "Twitch", "url": "https://www.twitch.tv" },
+        { "title": "Pluto TV", "url": "https://pluto.tv" },
+        { "title": "Shudder", "url": "https://www.shudder.com" },
+        { "title": "Starz", "url": "https://www.starz.com" },
+        { "title": "Showtime", "url": "https://www.showtime.com" },
+        { "title": "Acorn TV", "url": "https://www.acorn.tv" },
+        { "title": "BritBox", "url": "https://www.britbox.com" },
+        { "title": "Discovery+", "url": "https://www.discoveryplus.com" }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "links": [
+        { "title": "Amazon", "url": "https://www.amazon.com" },
+        { "title": "eBay", "url": "https://www.ebay.com" },
+        { "title": "Walmart", "url": "https://www.walmart.com" },
+        { "title": "Etsy", "url": "https://www.etsy.com" },
+        { "title": "Target", "url": "https://www.target.com" },
+        { "title": "Best Buy", "url": "https://www.bestbuy.com" },
+        { "title": "AliExpress", "url": "https://www.aliexpress.com" },
+        { "title": "Home Depot", "url": "https://www.homedepot.com" },
+        { "title": "Wayfair", "url": "https://www.wayfair.com" },
+        { "title": "Costco", "url": "https://www.costco.com" },
+        { "title": "Macy's", "url": "https://www.macys.com" },
+        { "title": "IKEA", "url": "https://www.ikea.com" },
+        { "title": "Newegg", "url": "https://www.newegg.com" },
+        { "title": "Overstock", "url": "https://www.overstock.com" },
+        { "title": "Zappos", "url": "https://www.zappos.com" },
+        { "title": "Nordstrom", "url": "https://www.nordstrom.com" },
+        { "title": "Sephora", "url": "https://www.sephora.com" },
+        { "title": "Kohl's", "url": "https://www.kohls.com" },
+        { "title": "Lowe's", "url": "https://www.lowes.com" },
+        { "title": "Staples", "url": "https://www.staples.com" }
+      ]
+    },
+    {
+      "name": "Social Media",
+      "links": [
+        { "title": "Facebook", "url": "https://www.facebook.com" },
+        { "title": "Twitter", "url": "https://www.twitter.com" },
+        { "title": "Instagram", "url": "https://www.instagram.com" },
+        { "title": "LinkedIn", "url": "https://www.linkedin.com" },
+        { "title": "Snapchat", "url": "https://www.snapchat.com" },
+        { "title": "TikTok", "url": "https://www.tiktok.com" },
+        { "title": "Pinterest", "url": "https://www.pinterest.com" },
+        { "title": "Reddit", "url": "https://www.reddit.com" },
+        { "title": "Tumblr", "url": "https://www.tumblr.com" },
+        { "title": "WhatsApp", "url": "https://www.whatsapp.com" },
+        { "title": "Telegram", "url": "https://telegram.org" },
+        { "title": "Discord", "url": "https://discord.com" },
+        { "title": "WeChat", "url": "https://www.wechat.com" },
+        { "title": "Line", "url": "https://line.me" },
+        { "title": "Viber", "url": "https://www.viber.com" },
+        { "title": "Signal", "url": "https://www.signal.org" },
+        { "title": "Clubhouse", "url": "https://www.joinclubhouse.com" },
+        { "title": "Meetup", "url": "https://www.meetup.com" },
+        { "title": "Medium", "url": "https://medium.com" },
+        { "title": "Parler", "url": "https://parler.com" }
+      ]
+    },
+    {
+      "name": "Gaming",
+      "links": [
+        { "title": "IGN", "url": "https://www.ign.com" },
+        { "title": "GameSpot", "url": "https://www.gamespot.com" },
+        { "title": "Kotaku", "url": "https://kotaku.com" },
+        { "title": "Polygon", "url": "https://www.polygon.com" },
+        { "title": "Eurogamer", "url": "https://www.eurogamer.net" },
+        { "title": "PC Gamer", "url": "https://www.pcgamer.com" },
+        {
+          "title": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com"
+        },
+        { "title": "GamesRadar", "url": "https://www.gamesradar.com" },
+        {
+          "title": "Metacritic Games",
+          "url": "https://www.metacritic.com/game"
+        },
+        { "title": "N4G", "url": "https://n4g.com" },
+        { "title": "Destructoid", "url": "https://www.destructoid.com" },
+        { "title": "Game Informer", "url": "https://www.gameinformer.com" },
+        { "title": "RPG Site", "url": "https://www.rpgsite.net" },
+        { "title": "Nintendo Life", "url": "https://www.nintendolife.com" },
+        { "title": "Push Square", "url": "https://www.pushsquare.com" },
+        { "title": "Gematsu", "url": "https://www.gematsu.com" },
+        { "title": "Siliconera", "url": "https://www.siliconera.com" },
+        {
+          "title": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz"
+        },
+        { "title": "My Nintendo News", "url": "https://mynintendonews.com" },
+        {
+          "title": "VentureBeat GamesBeat",
+          "url": "https://venturebeat.com/category/games"
+        },
+        { "title": "Gamasutra", "url": "https://www.gamasutra.com" }
+      ]
+    },
+    {
+      "name": "Home Improvement",
+      "links": [
+        { "title": "HGTV", "url": "https://www.hgtv.com" },
+        { "title": "This Old House", "url": "https://www.thisoldhouse.com" },
+        { "title": "Houzz", "url": "https://www.houzz.com" },
+        { "title": "Family Handyman", "url": "https://www.familyhandyman.com" },
+        { "title": "Bob Vila", "url": "https://www.bobvila.com" },
+        { "title": "DIY Network", "url": "https://www.diynetwork.com" },
+        { "title": "Lowe's", "url": "https://www.lowes.com" },
+        { "title": "Home Depot", "url": "https://www.homedepot.com" },
+        {
+          "title": "Apartment Therapy",
+          "url": "https://www.apartmenttherapy.com"
+        },
+        { "title": "Do It Yourself", "url": "https://www.doityourself.com" },
+        { "title": "Build", "url": "https://www.build.com" },
+        {
+          "title": "Houzz Ideabooks",
+          "url": "https://www.houzz.com/ideabooks"
+        },
+        { "title": "House Beautiful", "url": "https://www.housebeautiful.com" },
+        { "title": "Martha Stewart", "url": "https://www.marthastewart.com" },
+        { "title": "Better Homes & Gardens", "url": "https://www.bhg.com" },
+        { "title": "Real Simple", "url": "https://www.realsimple.com" },
+        { "title": "Southern Living", "url": "https://www.southernliving.com" },
+        {
+          "title": "Architectural Digest",
+          "url": "https://www.architecturaldigest.com"
+        },
+        { "title": "Country Living", "url": "https://www.countryliving.com" },
+        { "title": "Elle Decor", "url": "https://www.elledecor.com" }
+      ]
+    },
+    {
+      "name": "Productivity",
+      "links": [
+        { "title": "Trello", "url": "https://www.trello.com" },
+        { "title": "Asana", "url": "https://www.asana.com" },
+        { "title": "Notion", "url": "https://www.notion.so" },
+        { "title": "Evernote", "url": "https://www.evernote.com" },
+        { "title": "Todoist", "url": "https://www.todoist.com" },
+        { "title": "Microsoft OneNote", "url": "https://www.onenote.com" },
+        { "title": "Google Keep", "url": "https://www.keep.google.com" },
+        { "title": "ClickUp", "url": "https://www.clickup.com" },
+        { "title": "Slack", "url": "https://www.slack.com" },
+        { "title": "Basecamp", "url": "https://www.basecamp.com" },
+        { "title": "Monday.com", "url": "https://monday.com" },
+        { "title": "Airtable", "url": "https://airtable.com" },
+        { "title": "Smartsheet", "url": "https://www.smartsheet.com" },
+        { "title": "Wrike", "url": "https://www.wrike.com" },
+        { "title": "Toggl", "url": "https://toggl.com" },
+        { "title": "Microsoft To Do", "url": "https://todo.microsoft.com" },
+        { "title": "Trello Blog", "url": "https://blog.trello.com" },
+        { "title": "Productivityist", "url": "https://productivityist.com" },
+        { "title": "Product Hunt", "url": "https://www.producthunt.com" },
+        { "title": "RescueTime", "url": "https://www.rescuetime.com" }
+      ]
+    }
+  ]
+}
