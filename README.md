@@ -75,7 +75,7 @@ III. **Install dependencies**:
 
 ### File Structure
 
-\```
+```
 booky/
 │
 ├── data/
@@ -111,7 +111,7 @@ booky/
 ├── package.json
 ├── README.md
 └── styles.css
-\```
+```
 
 ### Completion Status
 
