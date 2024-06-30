@@ -1,76 +1,35 @@
-# Booky Extension Development Progress
+# Booky Browser Extension
 
-## File Structure and Completion Status
+## Overview
 
-- [x] `data/`
-  - [x] `initialData.json`
-- [x] `images/`
-  - [x] `favicon.ico`
-  - [x] `icon.png`
-  - [x] `logo.png`
-- [x] `js/`
-  - [x] `bookmarks.js`
-  - [x] `categories.js`
-  - [x] `main.js`
-  - [x] `toggleDarkMode.js`
-  - [x] `ui.js`
-  - [x] `utils.js`
-- [x] `vendor/`
-  - [x] `sortable.min.js`
-- [x] `LICENSE`
-- [x] `README.md`
-- [x] `manifest.json`
-- [x] `newtab.html`
-- [x] `styles.css`
+Booky is a browser extension designed to enhance your bookmarking experience. It offers a sleek, modern interface with features like one-click bookmarking, drag-and-drop organization, dark mode, and more. The extension is compatible with all modern browsers, ensuring a seamless experience across different platforms.
 
-## Functionality Progress
+## Features
 
-- [ ] Initial File Structure
-  - [x] Create folders
-  - [x] Create files
-  - [x] Update README.md with progress indicator
-- [ ] Grid Layout (newtab.html, styles.css, ui.js)
-  - [ ] Update `newtab.html`
-  - [ ] Update `styles.css`
-  - [ ] Update `ui.js`
-- [ ] Fetch and Display Data (main.js, utils.js)
-  - [ ] Fetch data from `initialData.json`
-  - [ ] Display data on new tab page
-- [ ] Horizontal Scrolling (ui.js, styles.css)
-  - [ ] Implement horizontal scrolling
-  - [ ] Add hover effects and arrows
-- [ ] Dark Mode (toggleDarkMode.js, styles.css)
-  - [ ] Implement dark mode toggle
-  - [ ] Style dark mode
+- **One Click Bookmarking**: Easily bookmark your favorite pages with a single click.
+- **Drag and Drop**: Organize your bookmarks effortlessly with drag-and-drop functionality.
+- **Screenshots**: Automatically captures a screenshot of the bookmarked page.
+- **Duplicate Handling**: Prevents duplicate bookmarks.
+- **Modern Design**: Clean and intuitive interface using Bootstrap and FontAwesome.
+- **Dark Mode**: Toggle dark mode for a comfortable browsing experience at night.
+- **Space Efficient Design**: Uses icons efficiently to save space and improve usability.
+- **Access to Browser's Bookmarks**: Access and manage your browser's bookmarks with the same slick UI.
+- **Search/Filter**: Quickly find the bookmarks you need.
+- **New Tab Page**: Customizable new tab page with your bookmarks organized in tiles.
+- **User Interactions in Modals**: All user interactions are handled in modals for a smooth experience.
+- **Pre-seeding Top Categories**: Pre-seeded with top 20 categories and top 20 links in each.
 
-## Visual Completion Indicator
+## Installation
 
-<style>
-.progress-bar {
-  background-color: #f0f0f0;
-  border-radius: 5px;
-  margin: 10px 0;
-  padding: 3px;
-  width: 100%;
-}
+### Prerequisites
 
-.progress {
-  background-color: #4caf50;
-  border-radius: 5px;
-  height: 20px;
-  width: 0;
-  transition: width 0.3s;
-}
-</style>
+- Node.js and npm installed on your machine.
+- Anaconda for managing the development environment.
 
-<div class="progress-bar">
-  <div class="progress" id="progress" style="width: 10%;"></div>
-</div>
+### Setting Up the Development Environment
 
-<script>
-const updateProgress = (percentage) => {
-  document.getElementById('progress').style.width = percentage + '%';
-};
-
-updateProgress(10); // Update this value based on the completion percentage
-</script>
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/qriz75/booky.git
+   cd booky
+   ```
